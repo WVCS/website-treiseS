@@ -1,3 +1,37 @@
-body {
-
+ nav {
+  list-style-type: none;
+  width: 100%;
+  Background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
+
+li a { 
+color: lightpink;
+text-decoration: none;
+display: block;
+float: left;
+padding: 15px 50px;
+font-size: 30px;
+}
+
+li a:hover {
+  background-color: pink;
+  color: black;
+  
+}
+
+h1{
+  color:#cc8899
+ ;text-decoration: green wavy overline
+;text-shadow: 1px 2px 5px blue;
+} 
+
+
+img:hover {
+    border-color: black;
+    border-style: double;
+    border-size: 500px;
+}
+ 
